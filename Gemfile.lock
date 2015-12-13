@@ -35,6 +35,3 @@ PLATFORMS
 DEPENDENCIES
   capistrano (~> 3.1)
   capistrano-symfony (~> 0.1)!
-
-BUNDLED WITH
-   1.10.6
